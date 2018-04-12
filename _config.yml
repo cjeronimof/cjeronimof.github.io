@@ -9,7 +9,7 @@ markdown: cjeronimof
 #Links that will appear in the navbar
 primarylinks:
  - title: GitHub
-   url: https://github.com/cjeornimof
+   url: https://github.com/cjeronimof
  - title: LinkedIn
    url: https://www.linkedin.com/in/cláudio-jeronimo-71334a5a
 
@@ -68,7 +68,7 @@ education:
 #List of interesting Github repo/projects to include - optional
 github:
  - cjeronimof/LoginReactNativeRedux
- - cjeronimof/Hermes
+ - cjeronimof/hermes
 
 
 #Stackoverflow flair is optional
